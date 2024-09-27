@@ -8,4 +8,4 @@ WORKDIR /usr/src/myapp
 COPY app.class /usr/src/myapp
 
 # Define the command to run your Java app
-CMD ["java", "App"]
+CMD ["java", "app"]
